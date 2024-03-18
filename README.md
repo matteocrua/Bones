@@ -1,6 +1,6 @@
 # Bones
 HEARTS BRL robot dog BONES!
-![20220429_161257](https://user-images.githubusercontent.com/812771/185992431-d1c09ae6-4895-4ebe-a0a1-b649a68fa1d0.jpg)
+<img width="634" alt="dogs!" src="https://user-images.githubusercontent.com/812771/185992431-d1c09ae6-4895-4ebe-a0a1-b649a68fa1d0.jpg">
 
 First stand
 https://youtu.be/PB43hm6HJFw
